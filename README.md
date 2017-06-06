@@ -4,10 +4,10 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Functions
-	* Parameters
-	* Arguments
-	* `if` statements
+	* Functions  ```set of step by step instructions, in a binder, that can be used over and over to produce an output; like ice cream```
+	* Parameters  ```I want 3 scoops of ice cream, flavors = coconut, chocolate, peanut butter.  named container of pieces of information -- function getIceCream(flavors){...});```
+	* Arguments  ```I want coconut ice cream with toppings(nuts and chocolate syrup). coconut = argument(value) and toppings = parameter(value.s) passed to function -- function getIceCream('coconut', toppings){...});```
+	* `if` statements  ```if you want to have icecream, clean your room...```
 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
