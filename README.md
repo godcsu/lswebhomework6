@@ -1,4 +1,4 @@
-# Homework #1
+# Homework #6
 
 ## Instructions
 ---
@@ -25,7 +25,7 @@
 6. Run `npm test` to run the automated tests.  At first all of the tests will be broken.  You will fill out the functions in `exercises.js` to make the tests pass.
 
 
-#### Congratulations on finishing Homework #1!
+#### Congratulations on finishing Homework #6!
 Apply to our full-time or part-time immersive program to learn cutting edge technologies that are used by top technology companies around the world.
 
 Our part-time and full-time courses are 13 intense weeks of focused study on the most relevant technologies.  
